@@ -1,9 +1,12 @@
 {
-  "posts":[
+  "userData":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "First post!",
+      "gender" : "My first content!",
+      "address":"dsksjfsdkjfhskjdfskjdfnskjdfnskjdfnskdjfsjkdfsjkdfnskdfnskjdfnjksdfns",
+      "age":23,
+      "salary":500000
     }
   ],
   "comments" : [
